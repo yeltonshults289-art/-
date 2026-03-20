@@ -1,0 +1,17 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows 缩略图
+Thumbs.db
+ehthumbs.db
+
+# 编辑器临时文件
+*.swp
+*~.nib
+
+# 日志/构建文件
+*.log
+build/
+dist/
